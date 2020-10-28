@@ -16,3 +16,7 @@
 
 * Printed out how many good, ok and bad movies there were and what the overall total score was
   to the console.
+
+## Screenshots
+
+![ScreenShot](console.JPG) The number of good, bad, and ok movies along with the average movie score are printed to the console.
