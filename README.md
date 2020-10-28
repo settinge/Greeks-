@@ -16,7 +16,23 @@
 
 * Printed out how many good, ok and bad movies there were and what the overall total score was
   to the console.
+ 
+## How to Run Code
+
+1. Clone repository to directory in computer
+
+2. Open repository in source-code editor.
+
+3. Navigate to index.html file
+
+4. Right click in index.html file and click "open with live server"
+
+5. Right click in browser web page and click "inspect"
+
+6. Click on console
 
 ## Screenshots
 
-![ScreenShot](console.JPG) The number of good, bad, and ok movies along with the average movie score are printed to the console.
+![ScreenShot](console.JPG) 
+
+The number of good, bad, and ok movies along with the average movie score are printed to the console.
